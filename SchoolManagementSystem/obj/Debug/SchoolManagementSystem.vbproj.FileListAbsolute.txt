@@ -1,0 +1,32 @@
+C:\Users\Vidu\source\repos\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+C:\Users\Vidu\source\repos\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+C:\Users\Vidu\source\repos\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+C:\Users\Vidu\source\repos\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.xml
+C:\Users\Vidu\source\repos\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.vbproj.AssemblyReference.cache
+C:\Users\Vidu\source\repos\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Form1.resources
+C:\Users\Vidu\source\repos\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Form2.resources
+C:\Users\Vidu\source\repos\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Resources.resources
+C:\Users\Vidu\source\repos\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.vbproj.GenerateResource.cache
+C:\Users\Vidu\source\repos\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.vbproj.CoreCompileInputs.cache
+C:\Users\Vidu\source\repos\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe
+C:\Users\Vidu\source\repos\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.xml
+C:\Users\Vidu\source\repos\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+C:\Users\Vidu\source\repos\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Form3.resources
+C:\Users\Vidu\source\repos\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Form4.resources
+C:\Users\Vidu\source\repos\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Form5.resources
+E:\My\Projects\D\F Project\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+E:\My\Projects\D\F Project\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+E:\My\Projects\D\F Project\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+E:\My\Projects\D\F Project\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.xml
+E:\My\Projects\D\F Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.vbproj.AssemblyReference.cache
+E:\My\Projects\D\F Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Form1.resources
+E:\My\Projects\D\F Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Form2.resources
+E:\My\Projects\D\F Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Form3.resources
+E:\My\Projects\D\F Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Form4.resources
+E:\My\Projects\D\F Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Form5.resources
+E:\My\Projects\D\F Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Resources.resources
+E:\My\Projects\D\F Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.vbproj.GenerateResource.cache
+E:\My\Projects\D\F Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.vbproj.CoreCompileInputs.cache
+E:\My\Projects\D\F Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe
+E:\My\Projects\D\F Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.xml
+E:\My\Projects\D\F Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
