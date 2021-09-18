@@ -4,7 +4,7 @@
         Dim password As String
         username = txtUsername.Text
         password = txtPassword.Text
-        If username = "dileka" And password = "1q2w3e4r" Then
+        If username = "Vidu" And password = "123456" Then
 
             Me.Hide()
             Form2.Show()
